@@ -1,7 +1,7 @@
-Syncing notes with 'HUAWEI Mate 20 Pro (UD)' on Sun, 25 Oct 2020 15:02:53 UTC
-Resetting to sha1: f0a63a3 (Setup syncing on 'HUAWEI Mate 20 Pro (UD)').
-Syncing for the first time. Backing up notes to 'notes-backup-1603638173262' branch.
-Pulled upstream. Moved head from f0a63a3 - Setup syncing on 'HUAWEI Mate 20 Pro (UD)' to e713cf5 - Delete 标题.md.
+Syncing notes with 'HUAWEI Mate 20 Pro (UD)' on Sun, 25 Oct 2020 15:14:21 UTC
+Resetting to sha1: 9342db5 (Backup notes on 'HUAWEI Mate 20 Pro (UD)').
+Syncing for the first time. Backing up notes to 'notes-backup-1603638861165' branch.
+Pulled upstream. Moved head from d004109 - Setup syncing on 'HUAWEI Mate 20 Pro (UD)' to d263175 - Add files via upload.
 
 Pulled changes (18):
  • Add(path=.press/registers/markdown_guide)
@@ -12,18 +12,18 @@ Pulled changes (18):
  • Add(path=.press/registers/untitled_note_6)
  • Add(path=.press/registers/welcome_to_press)
  • Add(path=.press/registers/如何删除)
- • Add(path=.press/registers/标题)
  • Add(path=.press/sync_log.txt)
+ • Add(path=Part.1.A.better.teachyourself.md)
  • Add(path=markdown_guide.md)
  • Add(path=untitled_note_2.md)
  • Add(path=untitled_note_3.md)
  • Add(path=untitled_note_4.md)
  • Add(path=untitled_note_5.md)
  • Add(path=untitled_note_6.md)
- • Add(path=welcome_to_press.md)
  • Add(path=如何删除.md)
+ • Add(path=标题.md)
 
-Processing commits from null to e713cf5
+Processing commits from null to d263175
  • b998cdf - JGit bug workaround
  • 9d40326 - Setup syncing on 'HUAWEI Mate 20 Pro (UD)'
  • 66fc7c2 - Backup notes on 'HUAWEI Mate 20 Pro (UD)'
@@ -48,6 +48,11 @@ Processing commits from null to e713cf5
  • 059acbc - Prune stale file name records
  • 1bc13bb - Update sync logs
  • e713cf5 - Delete 标题.md
+ • a379891 - Update '标题.md'
+ • b9c2207 - Prune stale file name records
+ • 6a58c95 - Update sync logs
+ • f5e0543 - Delete welcome_to_press.md
+ • d263175 - Add files via upload
 
 Syncing changes (19)
  • Add(path=.press/README.md)
@@ -59,8 +64,9 @@ Syncing changes (19)
  • Add(path=.press/registers/untitled_note_6)
  • Add(path=.press/registers/welcome_to_press)
  • Add(path=.press/registers/如何删除)
- • Add(path=.press/registers/标题)
  • Add(path=.press/sync_log.txt)
+ • Add(path=Part.1.A.better.teachyourself.md)
+   creating new note for Part.1.A.better.teachyourself.md with id=a18e7e1c-4891-454e-b12d-a03870ab0a5c (isArchived=false)
  • Add(path=markdown_guide.md)
    updating markdown_guide.md with id=8f4192fd-38cf-4c15-8ac7-028d15fe5fc3 (isArchived=false)
  • Add(path=untitled_note_2.md)
@@ -73,10 +79,10 @@ Syncing changes (19)
    updating untitled_note_5.md with id=6761f53d-8929-4512-9677-a116970e1678 (isArchived=false)
  • Add(path=untitled_note_6.md)
    updating untitled_note_6.md with id=8d3aebe7-4d59-4acf-a203-6b49e87073de (isArchived=false)
- • Add(path=welcome_to_press.md)
-   updating welcome_to_press.md with id=e731d56f-8db6-4351-a05e-8df27d5086f0 (isArchived=false)
  • Add(path=如何删除.md)
    updating 如何删除.md with id=ecb0626b-71ce-450d-b620-da6ef38f25f1 (isArchived=false)
+ • Add(path=标题.md)
+   creating new note for 标题.md with id=cb9ef33d-ac90-4323-8ab8-36614c5b6729 (isArchived=false)
 
 Syncing deletions
  • untitled_note.md
@@ -85,14 +91,14 @@ Syncing deletions
    permanently deleting NoteId(9c5ce04f-539f-43f8-a31d-6499f0515eb8)
  • 标题.md
    permanently deleting NoteId(3f17d6fb-60ef-4f2a-a4de-36e01347d208)
+ • welcome_to_press.md
+   permanently deleting NoteId(e731d56f-8db6-4351-a05e-8df27d5086f0)
 
-Committing unsynced notes (9):
+Committing unsynced notes (8):
  • welcome_to_press.md (id=e731d56f-8db6-4351-a05e-8df27d5086f0)
-   picking remote's copy and discarding local
+   picking local copy and discarding remote (if any)
  • markdown_guide.md (id=8f4192fd-38cf-4c15-8ac7-028d15fe5fc3)
    picking remote's copy and discarding local
- • 标题.md (id=3f17d6fb-60ef-4f2a-a4de-36e01347d208)
-   picking local copy and discarding remote (if any)
  • untitled_note.md (old = untitled_note_2.md, id=78a456ea-1cc8-4526-9c2b-81121a551044)
    picking remote's copy and discarding local
  • untitled_note.md (old = untitled_note_3.md, id=02e3f00f-b334-4248-a97b-d6331fe0f072)
@@ -106,13 +112,13 @@ Committing unsynced notes (9):
  • 如何删除.md (id=ecb0626b-71ce-450d-b620-da6ef38f25f1)
    picking local copy and discarding remote (if any)
 
-Processing commits from e713cf5 to a379891
- • e713cf5 - Delete 标题.md
- • a379891 - Update '标题.md'
+Processing commits from f7eeb81 to cc5d3e0
+ • f7eeb81 - Create new file name records
+ • cc5d3e0 - Update 'welcome_to_press.md'
 
 Syncing changes (1)
- • Add(path=标题.md)
-   skipping 标题.md (already saved)
+ • Add(path=welcome_to_press.md)
+   skipping welcome_to_press.md (already saved)
 
 Pushing changes
-Wrapping up sync (before push) on Sun, 25 Oct 2020 15:03:04 UTC
+Wrapping up sync (before push) on Sun, 25 Oct 2020 15:14:42 UTC
