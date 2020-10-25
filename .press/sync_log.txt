@@ -1,0 +1,121 @@
+Syncing notes with 'HUAWEI Mate 20 Pro (UD)' on Sun, 25 Oct 2020 14:55:59 UTC
+Resetting to sha1: 1a47b42 (Setup syncing on 'HUAWEI Mate 20 Pro (UD)').
+Syncing for the first time. Backing up notes to 'notes-backup-1603637760157' branch.
+Pulled upstream. Moved head from 1a47b42 - Setup syncing on 'HUAWEI Mate 20 Pro (UD)' to 4809027 - Merge pull request #8 from baonfmagic/notes-backup-1603636175081.
+
+Pulled changes (18):
+ • Add(path=.press/registers/markdown_guide)
+ • Add(path=.press/registers/untitled_note)
+ • Add(path=.press/registers/untitled_note_2)
+ • Add(path=.press/registers/untitled_note_3)
+ • Add(path=.press/registers/untitled_note_4)
+ • Add(path=.press/registers/untitled_note_5)
+ • Add(path=.press/registers/untitled_note_6)
+ • Add(path=.press/registers/welcome_to_press)
+ • Add(path=.press/registers/标题)
+ • Add(path=markdown_guide.md)
+ • Add(path=untitled_note.md)
+ • Add(path=untitled_note_2.md)
+ • Add(path=untitled_note_3.md)
+ • Add(path=untitled_note_4.md)
+ • Add(path=untitled_note_5.md)
+ • Add(path=untitled_note_6.md)
+ • Add(path=welcome_to_press.md)
+ • Add(path=标题.md)
+
+Processing commits from null to 4809027
+ • b998cdf - JGit bug workaround
+ • 9d40326 - Setup syncing on 'HUAWEI Mate 20 Pro (UD)'
+ • 66fc7c2 - Backup notes on 'HUAWEI Mate 20 Pro (UD)'
+ • ef42b3f - Backup notes on 'HUAWEI Mate 20 Pro (UD)'
+ • 5dc64ac - Backup notes on 'HUAWEI Mate 20 Pro (UD)'
+ • 1bde3b0 - Backup notes on 'HUAWEI Mate 20 Pro (UD)'
+ • 52c75f7 - Merge pull request #1 from baonfmagic/notes-backup-1603636109525
+ • 80f99cb - Backup notes on 'HUAWEI Mate 20 Pro (UD)'
+ • 9d9988a - Backup notes on 'HUAWEI Mate 20 Pro (UD)'
+ • 46605e0 - Backup notes on 'HUAWEI Mate 20 Pro (UD)'
+ • ba258b5 - Backup notes on 'HUAWEI Mate 20 Pro (UD)'
+ • b94b375 - Merge pull request #2 from baonfmagic/notes-backup-1603636265134
+ • ed1f1c3 - Merge pull request #3 from baonfmagic/notes-backup-1603636355109
+ • 9ec8c32 - Merge pull request #4 from baonfmagic/notes-backup-1603636419578
+ • 7e5c172 - Merge pull request #5 from baonfmagic/notes-backup-1603636405127
+ • de72be1 - Merge pull request #6 from baonfmagic/notes-backup-1603636235114
+ • 4809027 - Merge pull request #8 from baonfmagic/notes-backup-1603636175081
+
+Syncing changes (19)
+ • Add(path=.press/README.md)
+ • Add(path=.press/registers/markdown_guide)
+ • Add(path=.press/registers/untitled_note)
+ • Add(path=.press/registers/untitled_note_2)
+ • Add(path=.press/registers/untitled_note_3)
+ • Add(path=.press/registers/untitled_note_4)
+ • Add(path=.press/registers/untitled_note_5)
+ • Add(path=.press/registers/untitled_note_6)
+ • Add(path=.press/registers/welcome_to_press)
+ • Add(path=.press/registers/标题)
+ • Add(path=markdown_guide.md)
+   updating markdown_guide.md with id=8f4192fd-38cf-4c15-8ac7-028d15fe5fc3 (isArchived=false)
+ • Add(path=untitled_note.md)
+   updating untitled_note.md with id=9ac90bbc-93d1-42e2-8ee7-3c3b9785d15b (isArchived=false)
+ • Add(path=untitled_note_2.md)
+   updating untitled_note_2.md with id=78a456ea-1cc8-4526-9c2b-81121a551044 (isArchived=false)
+ • Add(path=untitled_note_3.md)
+   updating untitled_note_3.md with id=02e3f00f-b334-4248-a97b-d6331fe0f072 (isArchived=false)
+ • Add(path=untitled_note_4.md)
+   updating untitled_note_4.md with id=a49dc3c3-8f5b-41f2-b3b9-97a212dffe87 (isArchived=false)
+ • Add(path=untitled_note_5.md)
+   updating untitled_note_5.md with id=6761f53d-8929-4512-9677-a116970e1678 (isArchived=false)
+ • Add(path=untitled_note_6.md)
+   updating untitled_note_6.md with id=8d3aebe7-4d59-4acf-a203-6b49e87073de (isArchived=false)
+ • Add(path=welcome_to_press.md)
+   updating welcome_to_press.md with id=e731d56f-8db6-4351-a05e-8df27d5086f0 (isArchived=false)
+ • Add(path=标题.md)
+   updating 标题.md with id=3f17d6fb-60ef-4f2a-a4de-36e01347d208 (isArchived=false)
+
+Committing unsynced notes (11):
+ • welcome_to_press.md (id=e731d56f-8db6-4351-a05e-8df27d5086f0)
+   picking remote's copy and discarding local
+ • markdown_guide.md (id=8f4192fd-38cf-4c15-8ac7-028d15fe5fc3)
+   picking remote's copy and discarding local
+ • untitled_note.md (id=9ac90bbc-93d1-42e2-8ee7-3c3b9785d15b)
+   picking remote's copy and discarding local
+   deleting untitled_note.md
+ • 标题.md (id=3f17d6fb-60ef-4f2a-a4de-36e01347d208)
+   picking remote's copy and discarding local
+ • untitled_note.md (old = untitled_note_2.md, id=78a456ea-1cc8-4526-9c2b-81121a551044)
+   picking remote's copy and discarding local
+ • untitled_note.md (old = untitled_note_3.md, id=02e3f00f-b334-4248-a97b-d6331fe0f072)
+   picking remote's copy and discarding local
+ • untitled_note.md (old = untitled_note_4.md, id=a49dc3c3-8f5b-41f2-b3b9-97a212dffe87)
+   picking remote's copy and discarding local
+ • untitled_note.md (old = untitled_note_5.md, id=6761f53d-8929-4512-9677-a116970e1678)
+   picking remote's copy and discarding local
+ • untitled_note.md (old = untitled_note_6.md, id=8d3aebe7-4d59-4acf-a203-6b49e87073de)
+   picking remote's copy and discarding local
+ • untitled_note.md (id=9c5ce04f-539f-43f8-a31d-6499f0515eb8)
+   picking local copy and discarding remote (if any)
+   deleting untitled_note.md
+ • 如何删除.md (id=ecb0626b-71ce-450d-b620-da6ef38f25f1)
+   picking local copy and discarding remote (if any)
+
+Processing commits from 4809027 to 32083aa
+ • 4809027 - Merge pull request #8 from baonfmagic/notes-backup-1603636175081
+ • c9247f6 - Delete 'untitled_note.md'
+ • 4013bdd - Update 'untitled_note.md'
+ • 883bc20 - Delete 'untitled_note.md'
+ • 32083aa - Update '如何删除.md'
+
+Syncing changes (3)
+ • Modify(path=.press/registers/untitled_note)
+ • Add(path=.press/registers/如何删除)
+ • Add(path=如何删除.md)
+   skipping 如何删除.md (already saved)
+
+Syncing deletions
+ • untitled_note.md
+   permanently deleting NoteId(9ac90bbc-93d1-42e2-8ee7-3c3b9785d15b)
+ • untitled_note.md
+   permanently deleting NoteId(9c5ce04f-539f-43f8-a31d-6499f0515eb8)
+
+Pushing changes
+Wrapping up sync (before push) on Sun, 25 Oct 2020 14:56:12 UTC
