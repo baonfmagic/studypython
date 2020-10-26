@@ -1,0 +1,82 @@
+{
+  "main": {
+    "id": "9ac381fe13f24fb4",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b9116fbe7192aa6",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7e98d7bcb33dc2f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "eafb04be4f7359c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8985d6762c6edee3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "986d6236ba72e14d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2058bd9d1aae6efd",
+    "type": "split",
+    "children": [
+      {
+        "id": "921858cc21284695",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e62012aeff0d86fb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "note-file/读书笔记/如何有效的阅读一本书.md",
+    "Inbox/index.md",
+    "index.md",
+    "note-file/index.md",
+    "note-file/读书笔记/Untitled.md",
+    "note-file/Untitled.md",
+    "Inbox/Untitled.md"
+  ]
+}
