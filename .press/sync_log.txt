@@ -1,29 +1,28 @@
-Syncing notes with 'HUAWEI Mate 20 Pro (UD)' on Sun, 25 Oct 2020 15:14:21 UTC
-Resetting to sha1: 9342db5 (Backup notes on 'HUAWEI Mate 20 Pro (UD)').
-Syncing for the first time. Backing up notes to 'notes-backup-1603638861165' branch.
-Pulled upstream. Moved head from d004109 - Setup syncing on 'HUAWEI Mate 20 Pro (UD)' to d263175 - Add files via upload.
+Syncing notes with 'HUAWEI Mate 20 Pro (UD)' on Mon, 26 Oct 2020 04:41:12 UTC
+Resetting to sha1: d9d0727 (Setup syncing on 'HUAWEI Mate 20 Pro (UD)').
+Syncing for the first time. Backing up notes to 'notes-backup-1603687272513' branch.
+Pulled upstream. Moved head from d9d0727 - Setup syncing on 'HUAWEI Mate 20 Pro (UD)' to 6e58135 - Add files via upload.
 
-Pulled changes (18):
+Pulled changes (17):
+ • Add(path=.press/registers/Part.1.A.better.teachyourself)
  • Add(path=.press/registers/markdown_guide)
  • Add(path=.press/registers/untitled_note_2)
  • Add(path=.press/registers/untitled_note_3)
  • Add(path=.press/registers/untitled_note_4)
  • Add(path=.press/registers/untitled_note_5)
  • Add(path=.press/registers/untitled_note_6)
- • Add(path=.press/registers/welcome_to_press)
  • Add(path=.press/registers/如何删除)
+ • Add(path=.press/registers/标题)
  • Add(path=.press/sync_log.txt)
- • Add(path=Part.1.A.better.teachyourself.md)
- • Add(path=markdown_guide.md)
  • Add(path=untitled_note_2.md)
  • Add(path=untitled_note_3.md)
  • Add(path=untitled_note_4.md)
  • Add(path=untitled_note_5.md)
  • Add(path=untitled_note_6.md)
  • Add(path=如何删除.md)
- • Add(path=标题.md)
+ • Add(path=如何有效的阅读一本书.md)
 
-Processing commits from null to d263175
+Processing commits from null to 6e58135
  • b998cdf - JGit bug workaround
  • 9d40326 - Setup syncing on 'HUAWEI Mate 20 Pro (UD)'
  • 66fc7c2 - Backup notes on 'HUAWEI Mate 20 Pro (UD)'
@@ -53,22 +52,28 @@ Processing commits from null to d263175
  • 6a58c95 - Update sync logs
  • f5e0543 - Delete welcome_to_press.md
  • d263175 - Add files via upload
+ • f7eeb81 - Create new file name records
+ • cc5d3e0 - Update 'welcome_to_press.md'
+ • bc31660 - Prune stale file name records
+ • 26fcd98 - Update sync logs
+ • fe66c4f - Delete markdown_guide.md
+ • 60c3799 - Delete 标题.md
+ • a391f3b - Delete welcome_to_press.md
+ • 6c67ef6 - Delete Part.1.A.better.teachyourself.md
+ • 6e58135 - Add files via upload
 
-Syncing changes (19)
+Syncing changes (18)
  • Add(path=.press/README.md)
+ • Add(path=.press/registers/Part.1.A.better.teachyourself)
  • Add(path=.press/registers/markdown_guide)
  • Add(path=.press/registers/untitled_note_2)
  • Add(path=.press/registers/untitled_note_3)
  • Add(path=.press/registers/untitled_note_4)
  • Add(path=.press/registers/untitled_note_5)
  • Add(path=.press/registers/untitled_note_6)
- • Add(path=.press/registers/welcome_to_press)
  • Add(path=.press/registers/如何删除)
+ • Add(path=.press/registers/标题)
  • Add(path=.press/sync_log.txt)
- • Add(path=Part.1.A.better.teachyourself.md)
-   creating new note for Part.1.A.better.teachyourself.md with id=a18e7e1c-4891-454e-b12d-a03870ab0a5c (isArchived=false)
- • Add(path=markdown_guide.md)
-   updating markdown_guide.md with id=8f4192fd-38cf-4c15-8ac7-028d15fe5fc3 (isArchived=false)
  • Add(path=untitled_note_2.md)
    updating untitled_note_2.md with id=78a456ea-1cc8-4526-9c2b-81121a551044 (isArchived=false)
  • Add(path=untitled_note_3.md)
@@ -81,8 +86,8 @@ Syncing changes (19)
    updating untitled_note_6.md with id=8d3aebe7-4d59-4acf-a203-6b49e87073de (isArchived=false)
  • Add(path=如何删除.md)
    updating 如何删除.md with id=ecb0626b-71ce-450d-b620-da6ef38f25f1 (isArchived=false)
- • Add(path=标题.md)
-   creating new note for 标题.md with id=cb9ef33d-ac90-4323-8ab8-36614c5b6729 (isArchived=false)
+ • Add(path=如何有效的阅读一本书.md)
+   creating new note for 如何有效的阅读一本书.md with id=f5516a8a-a049-474f-abc0-491ff5541e1d (isArchived=false)
 
 Syncing deletions
  • untitled_note.md
@@ -93,12 +98,20 @@ Syncing deletions
    permanently deleting NoteId(3f17d6fb-60ef-4f2a-a4de-36e01347d208)
  • welcome_to_press.md
    permanently deleting NoteId(e731d56f-8db6-4351-a05e-8df27d5086f0)
+ • markdown_guide.md
+   permanently deleting NoteId(8f4192fd-38cf-4c15-8ac7-028d15fe5fc3)
+ • 标题.md
+   permanently deleting NoteId(cb9ef33d-ac90-4323-8ab8-36614c5b6729)
+ • welcome_to_press.md
+   can't find file
+ • Part.1.A.better.teachyourself.md
+   permanently deleting NoteId(a18e7e1c-4891-454e-b12d-a03870ab0a5c)
 
-Committing unsynced notes (8):
- • welcome_to_press.md (id=e731d56f-8db6-4351-a05e-8df27d5086f0)
-   picking local copy and discarding remote (if any)
+Committing unsynced notes (9):
  • markdown_guide.md (id=8f4192fd-38cf-4c15-8ac7-028d15fe5fc3)
-   picking remote's copy and discarding local
+   picking local copy and discarding remote (if any)
+ • 标题.md (id=cb9ef33d-ac90-4323-8ab8-36614c5b6729)
+   picking local copy and discarding remote (if any)
  • untitled_note.md (old = untitled_note_2.md, id=78a456ea-1cc8-4526-9c2b-81121a551044)
    picking remote's copy and discarding local
  • untitled_note.md (old = untitled_note_3.md, id=02e3f00f-b334-4248-a97b-d6331fe0f072)
@@ -111,14 +124,23 @@ Committing unsynced notes (8):
    picking remote's copy and discarding local
  • 如何删除.md (id=ecb0626b-71ce-450d-b620-da6ef38f25f1)
    picking local copy and discarding remote (if any)
+ • 为什么一定要掌握自学能力.md (id=a18e7e1c-4891-454e-b12d-a03870ab0a5c)
+   picking local copy and discarding remote (if any)
 
-Processing commits from f7eeb81 to cc5d3e0
- • f7eeb81 - Create new file name records
- • cc5d3e0 - Update 'welcome_to_press.md'
+Processing commits from f5af651 to b3f0b2b
+ • f5af651 - Create new file name records
+ • 6bcef46 - Update 'markdown_guide.md'
+ • 425b281 - Update '标题.md'
+ • b3f0b2b - Update '为什么一定要掌握自学能力.md'
 
-Syncing changes (1)
- • Add(path=welcome_to_press.md)
-   skipping welcome_to_press.md (already saved)
+Syncing changes (4)
+ • Add(path=.press/registers/为什么一定要掌握自学能力)
+ • Add(path=markdown_guide.md)
+   skipping markdown_guide.md (already saved)
+ • Add(path=为什么一定要掌握自学能力.md)
+   skipping 为什么一定要掌握自学能力.md (already saved)
+ • Add(path=标题.md)
+   skipping 标题.md (already saved)
 
 Pushing changes
-Wrapping up sync (before push) on Sun, 25 Oct 2020 15:14:42 UTC
+Wrapping up sync (before push) on Mon, 26 Oct 2020 04:41:23 UTC
